@@ -1,61 +1,74 @@
-### Hi there 👋
+<div align="center">
 
-# Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> I'm ZC !
-## Welcome to my Github Profile 
+# ✨ Lim Zhen Cong ✨  
+### 💻 Information Technology Undergraduate | IT Internship Candidate  
 
-### About me 
+📍 Kuala Lumpur, Malaysia  
+📧 zclim479@gmail.com  
 
-<img align='right' src="https://media.giphy.com/media/l0HlTy9x8FZo0XO1i/giphy.gif" width="400">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lim-zhen-cong-ashton-1387882a7)
+[![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zc100504)
 
-
-
----
-<p align="center">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkblue"> 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-
-
-</p>
-
-
----
-<p align="center">
-<img src="https://img.shields.io/badge/INSTAGRAM-black?logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2F_zhen_cong%3Futm_source%3Dqr%26r%3Dnametag" />    
-</p>   
+</div>
 
 ---
 
+## 🌱 About Me
+🎓 IT undergraduate at **HELP University**  
+⚡ Fast learner with strong **problem-solving & analytical skills**  
+🧠 Interested in **software development, cloud computing, and AI**  
+🤝 Enjoy building real-world solutions and collaborating in teams  
 
-```zsh
+---
 
+## 🧰 Tech Toolbox
 
+### 🖥️ Programming & Markup
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+---
 
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)
 
+---
 
+### 🎨 UI/UX & Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
+---
 
+### ☁️ Cloud & AI
+![AWS](https://img.shields.io/badge/AWS-Basic-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Basic-102230?style=flat)
 
+---
 
+### 🛠️ Tools & IDEs
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=apache&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 
+---
 
+### 🌏 Languages
+🇬🇧 English • 🇨🇳 Mandarin • 🇲🇾 Malay • 🇭🇰 Cantonese  
 
-```
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+---
 
-### Spotify Playing 🎧
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)]([https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit?si=2b238b42a44b4e70])
+<div align="center">
 
-----
+✨ *Always learning. Always building.* ✨  
 
-
-
-
-```zsh
->  check out my repos 👇
-```
+</div>
