@@ -1,7 +1,7 @@
 <div align="center">
 
 # ✨ Lim Zhen Cong ✨  
-### 💻 Information Technology Undergraduate | IT Internship Candidate  
+### 💻 Information Technology Undergraduate
 
 📍 Kuala Lumpur, Malaysia  
 📧 zclim479@gmail.com  
